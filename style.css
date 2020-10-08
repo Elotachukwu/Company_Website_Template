@@ -26,11 +26,16 @@ body {
 #font {
     margin: 0 0 10% 35%;
 } 
+#fonts {
+    margin: 0 0 10% 35%;
+    transform: rotate(-30deg);
+}
 
 h3 {
     padding:10px;
     margin-right: 4%;
-    font-weight: 100px;
+    font-weight: 800;
+ 
 }
 
 .nav {
@@ -72,4 +77,7 @@ h3 {
 .d {
     font-weight: 500;
     padding-bottom: 20px;
+}
+.link2 {
+    color: blue;
 }
