@@ -1,0 +1,85 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    text-decoration: none;
+    color:black;
+    line-height: 1.5;
+}
+body {
+    background-image:  url(/assets/images/bckgrnd.jpg);
+    background-size: cover;
+    font-family:'poppins','serif';
+
+}
+
+.head {
+    display: flex;
+    margin: 2% 1% 2% 1%;
+    padding: 1%;
+    background-color: rgba(245,245,245, 0.75);;
+    
+}
+.fas,
+.fab {
+    font-size: 50px;
+}
+#font {
+    margin: 0 0 10% 35%;
+} 
+#fonts {
+    margin: 0 0 10% 35%;
+    transform: rotate(-30deg);
+}
+
+h3 {
+    padding:10px;
+    margin-right: 8%;
+    font-weight: 800;
+ 
+}
+
+.nav {
+    margin: 1% 0 0 5%;
+    font-size: 20px;
+    
+}
+.link1 {
+    padding: 27px 25px 23px 25px;
+    margin: 0  25px  25px  0px;
+}
+
+.nav a:hover {
+    background-color: white;
+    color: blue;
+}
+.parent {
+    display: flex;
+    margin: 15% 0 5% 0;
+}
+
+.hello,
+.welcome,
+.stayRelaxed {
+    width: 50%;
+    padding: 50px ;
+    margin-left: 2%;
+    margin-right: 4%; 
+    background-color: rgba(245,245,245, 0.75);
+    height: 40%;
+}
+
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 20% 40% 5% 40%;
+}
+.d {
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.link2 {
+    color: blue;
+}
