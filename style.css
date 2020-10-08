@@ -26,6 +26,10 @@ body {
 #font {
     margin: 0 0 10% 35%;
 } 
+#fonts {
+    margin: 0 0 10% 35%;
+    transform: rotate(-30deg);
+}
 
 h3 {
     padding:10px;
