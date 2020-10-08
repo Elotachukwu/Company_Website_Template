@@ -7,7 +7,7 @@
     line-height: 1.5;
 }
 body {
-    background-image:  url(/assets/images/bckgrnd.jpg);
+    background-image:  url(../images/bckgrnd.jpg);
     background-size: cover;
     font-family:'poppins','serif';
 
